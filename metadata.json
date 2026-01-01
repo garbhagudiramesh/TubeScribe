@@ -1,0 +1,5 @@
+{
+  "name": "TubeScribe AI",
+  "description": "Professional-grade AI transcription service that turns YouTube videos into editable, high-fidelity text using Gemini AI.",
+  "requestFramePermissions": []
+}
